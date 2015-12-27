@@ -1,29 +1,19 @@
 body{
 	width: 800px;
 	margin: auto;
+	font-family: monospace;
+	color: orange;
+	background-color: black;
 }
 
-header{
-	padding: 15px;
-	background-color: orange;
-	color: #fff;
-	font-family: sans-serif;
-}
-
-section{
-	margin-top: 10px;
-	text-align: right;
-}
-
-p,
 img{
-	display: inline-block;
+	border: 5px solid orange;
+}
+
+h1{
+	font-size: 75px;
 }
 
 p{
-	vertical-align: top;
-}
-
-img{
-	border: 5px dotted black;
+	font-size: 30px;
 }
