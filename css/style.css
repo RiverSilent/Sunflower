@@ -1,0 +1,29 @@
+body{
+	width: 800px;
+	margin: auto;
+}
+
+header{
+	padding: 15px;
+	background-color: orange;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+section{
+	margin-top: 10px;
+	text-align: right;
+}
+
+p,
+img{
+	display: inline-block;
+}
+
+p{
+	vertical-align: top;
+}
+
+img{
+	border: 5px dotted black;
+}
